@@ -1,2 +1,2 @@
 # Dijkstra-Algorithm
-Optimize performance of computing all paths length.
+Optimize performance of computing all paths length.本是一道算法作业题目，目的是求任意两节点之间的最小路径，此文件中的算法在Dijstra算法的基础上结合题目环境，做了部分优化，使得多次查询任意两节点的最短路径时有时间的优化；同时对于不同位置的节点有不同的处理方式。
